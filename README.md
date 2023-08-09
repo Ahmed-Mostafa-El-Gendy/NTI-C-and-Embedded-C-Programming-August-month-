@@ -1,5 +1,5 @@
 # NTI-C-and-Embedded-C-Programming-August-month-
-
+start : 6 / August / 2023 
 ## instructor Eng : Fahd Badi Abdelhameed
 ## instructor Eng : Aya Abdelwahab Anan 
 
