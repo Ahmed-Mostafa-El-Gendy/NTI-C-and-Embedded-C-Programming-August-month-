@@ -1,0 +1,1 @@
+##Nothing was explained except for Data Modifier, and there were no labs or tasks in this lecture 7 
